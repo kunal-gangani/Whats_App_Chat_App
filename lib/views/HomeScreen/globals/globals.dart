@@ -1,0 +1,51 @@
+List<Map<String, dynamic>> userName = [
+  {
+    'name': "Kunal",
+    'message' : "Heya , WhatsUp?",
+    'time' : "12:15",
+    'totalMessage' : "3",
+    'image' : "https://instagram.famd1-2.fna.fbcdn.net/v/t51.2885-19/448834408_817522240031813_1010168753845175633_n.jpg?_nc_ht=instagram.famd1-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=v3dllvwYr3YQ7kNvgHLyZXX&edm=AEhyXUkBAAAA&ccb=7-5&oh=00_AYARiJWSrVf-2j79v_DFHuzftjA9hgn3_UkwKl9U_L51Pw&oe=667DF122&_nc_sid=cf751b",
+  },
+  {
+    'name': "Kaira",
+    'message' : "I dunno",
+    'time' : "11:29",
+    'totalMessage' : "1",
+    'image' : "https://scontent.cdninstagram.com/v/t51.2885-19/439056940_1054000326260997_8736311354380424257_n.jpg?stp=dst-jpg_s100x100&_nc_cat=108&ccb=1-7&_nc_sid=3fd06f&_nc_ohc=4HFQNrHe3QIQ7kNvgHnfyZI&_nc_ad=z-m&_nc_cid=2034&_nc_ht=scontent.cdninstagram.com&oh=00_AYBwxjl4PyJrwsxSxO2-9KxA0MDa6pl3CytG0GkwwBStDQ&oe=667DDAE5",
+  },
+  {
+    'name': "Muskan",
+    'message' : "All good?",
+    'time' : "9:48",
+    'totalMessage' : "8",
+    'image' : "https://scontent.cdninstagram.com/v/t51.2885-19/448228247_1119550149149305_2357405030334350637_n.jpg?stp=dst-jpg_s100x100&_nc_cat=107&ccb=1-7&_nc_sid=3fd06f&_nc_ohc=tw-LtW5UikQQ7kNvgFBoGGs&_nc_ad=z-m&_nc_cid=2034&_nc_ht=scontent.cdninstagram.com&oh=00_AYCkOPIDeMOz9Jk2uzOr2goTH6iMRSISDWkGfJ3DwYLcXA&oe=667DEA6D",
+  },
+  {
+    'name': "Shivam",
+    'message' : "Task done?",
+    'time' : "01:46",
+    'totalMessage' : "2",
+    'image' : "https://scontent.cdninstagram.com/v/t51.2885-19/369340118_973402377248165_7901167074548085526_n.jpg?stp=dst-jpg_s100x100&_nc_cat=110&ccb=1-7&_nc_sid=3fd06f&_nc_ohc=zjYL7fs9kjAQ7kNvgHG2xLk&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=00_AYAlOTJSFuhs8-kbiRwWkrg22cpKjZWULfjYa9JHMI5Z4g&oe=667E05EC",
+  },
+  {
+    'name': "Anya",
+    'message' : "It's cool in here",
+    'time' : "23:11",
+    'totalMessage' : "7",
+    'image' : "https://scontent.cdninstagram.com/v/t51.2885-19/448650259_1653516318796875_2167080890974738043_n.jpg?stp=dst-jpg_s100x100&_nc_cat=110&ccb=1-7&_nc_sid=3fd06f&_nc_ohc=J9tGeKSelcQQ7kNvgGBUni7&_nc_ad=z-m&_nc_cid=2034&_nc_ht=scontent.cdninstagram.com&oh=00_AYCQ7sKly3m00hZn-dSHiUAks6J_n2K8LarQwgkmE8vaQA&oe=667E0477",
+  },
+  {
+    'name': "Atharva",
+    'message' : "Yeah It's a good one",
+    'time' : "22:11",
+    'totalMessage' : "3",
+    'image' : "https://scontent.cdninstagram.com/v/t51.2885-19/437376954_767950028820683_681288565050301433_n.jpg?stp=dst-jpg_s100x100&_nc_cat=101&ccb=1-7&_nc_sid=3fd06f&_nc_ohc=LPDFcxUIGEkQ7kNvgEaoUDs&_nc_ad=z-m&_nc_cid=2034&_nc_ht=scontent.cdninstagram.com&oh=00_AYBIJ8_LSQBEBwGc6AgVZypKfoUiHjUbE7Me7FWPEyNHTg&oe=667DFBC6",
+  },
+  {
+    'name': "Jeeya",
+    'message' : "I'll send it soon",
+    'time' : "20:47",
+    'totalMessage' : "10",
+    'image' : "https://scontent.cdninstagram.com/v/t51.2885-19/440114542_787197826709540_7650566782804288033_n.jpg?stp=dst-jpg_s100x100&_nc_cat=109&ccb=1-7&_nc_sid=3fd06f&_nc_ohc=kWwt28CNGhIQ7kNvgFzLqqI&_nc_ad=z-m&_nc_cid=2034&_nc_ht=scontent.cdninstagram.com&oh=00_AYDo8N-mjZLi539sadlzI6zICySifk8j_G2NkODky4dsug&oe=667DDFF0",
+  },
+];

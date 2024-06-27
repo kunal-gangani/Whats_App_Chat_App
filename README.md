@@ -1,16 +1,12 @@
-# whats_app_ui
+# Welcome to WhatSApp Clone Repository 
 
-A new Flutter project.
+# Screenshots
 
-## Getting Started
+## Chats Display
+<img src = "https://github.com/kunal-gangani/Whats_App_Chat_App/assets/150250846/589f4a0e-c212-4a60-8c20-fb3831b8ec0e" height = "400em">
 
-This project is a starting point for a Flutter application.
+## Status Display
+<img src = "https://github.com/kunal-gangani/Whats_App_Chat_App/assets/150250846/0e405ed4-ac78-428f-81a2-c5daf10e3c17" height = "400em">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Calls Display
+<img src = "https://github.com/kunal-gangani/Whats_App_Chat_App/assets/150250846/3cc4db9c-4e89-44c3-8451-aa01ef6745a4" height = "400em">
